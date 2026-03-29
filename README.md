@@ -1,7 +1,7 @@
 # 📦 OSS Capstone Project: Open Source Audit
 
 **Name:** Parth Gholap  
-**Reg No:** XXXXXXXX  
+**Reg No:** 24BCE10970
 **Slot:** D11  
 **Course:** Open Source Software  
 **College:** VIT Bhopal University  
