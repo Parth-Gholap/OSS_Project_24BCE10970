@@ -1,0 +1,5 @@
+System started
+Error: failed login
+Warning: low memory
+Error: disk issue
+Error: network issue
